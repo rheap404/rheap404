@@ -1,1 +1,1 @@
-[![Rheas's GitHub stats](https://github-readme-stats.vercel.app/api?username=/rheap404)](https://github.com/rheap404/github-readme-stats)
+[![Rheas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheap404)](https://github.com/rheap404/github-readme-stats)
