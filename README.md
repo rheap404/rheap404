@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<div style="display:flex; align-items:center;">
+<div style="display:flex;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Light_blue_star.svg/2048px-Light_blue_star.svg.png" alt="Star Image" style="width: 40px; height: 40px; margin-right: 10px;">
     <h1>Hi, I'm Rhea!</h1>
 </div>
