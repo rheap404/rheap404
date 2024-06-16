@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi, I'm Rhea! 👋</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/rheap404">LinkedIn</a> •
+  <a href="https://linkedin.com/in/rheap404">LinkedIn</a> 
 </p>
 
 <!-- About Me -->
@@ -21,11 +21,7 @@ I'm a passionate software developer with a love for creating innovative solution
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=blueviolet">
 </p>
 
 
@@ -34,7 +30,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rheap404&show_icons=true&theme=radical">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?rheap404=rheap404&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheap404&layout=compact&theme=radical">
 </p>
 
 <!-- Contact -->
@@ -43,11 +39,10 @@ I'm a passionate software developer with a love for creating innovative solution
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rheap404)
 
 <!-- Footer -->
+<!-- 
 <p align="center">
   <img src="https://github.com/rheap404/rheap404/raw/main/footer.png" alt="Profile Footer Image">
 </p>
+-->
 
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheap404&layout=compact)
