@@ -35,7 +35,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&color=orange">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&text=black&color=yellow" style="color: black;>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&text=black&color=yellow">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&color=black">
@@ -55,7 +55,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <!-- Softwares -->
 ## Softwares
 
-<p align="left" style=" display: flex; flex-direction:column; gap: 20px;">
+<p align="left" style=" display: flex; flex-direction:column; gap:20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
