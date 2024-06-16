@@ -12,7 +12,7 @@
    <a href="rheaprakash2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red">
   </a>
-  <a href="https://linkedin.com/in/rheap404">
+  <a href="https://linkedin.com/in/rp404">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blue">
   </a>
 </p>
