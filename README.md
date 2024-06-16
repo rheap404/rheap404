@@ -4,8 +4,8 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi, I'm Rhea! 👋</h1>
-<p align="center">
+<h1 align="left">Hi, I'm Rhea! 👋</h1>
+<p align="left">
   <a href="https://linkedin.com/in/rheap404">LinkedIn</a> 
 </p>
 
@@ -17,7 +17,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <!-- Skills -->
 ## Skills
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet">
@@ -27,16 +27,14 @@ I'm a passionate software developer with a love for creating innovative solution
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rheap404&show_icons=true&theme=radical">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheap404&layout=compact&theme=radical">
 </p>
 
 <!-- Contact -->
 ## Contact
-- Email: [youremail@example.com](mailto:rheaprakash2004@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/rheap404)
+- Email: [rheaprakash2004@gmail.com](mailto:rheaprakash2004@gmail.com)
+- LinkedIn: [Rheap404](https://linkedin.com/in/rheap404)
 
 <!-- Footer -->
 <!-- 
