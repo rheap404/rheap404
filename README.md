@@ -1,8 +1,9 @@
 <!-- Profile Header -->
 <div style="display:flex">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F1843034&psig=AOvVaw0FruoRikU3hx6xKveejAZl&ust=1718633378337000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPir1LSm4IYDFQAAAAAdAAAAABAE" alt="Profile Header Image">
-   <a href="https://linkedin.com/in/rheap404">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet">
+    <img src="https://image.pngaaa.com/34/1843034-middle.png" alt="Profile Header Image">
+    <h1 align="left">Hi, I'm Rhea!</h1>
+    <a href="https://linkedin.com/in/rheap404">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet">
     </a>
 </div>
 
