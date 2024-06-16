@@ -18,11 +18,12 @@ I'm a passionate software developer with a love for creating innovative solution
 ## Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet">
-  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&color=blueviolet">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=blueviolet">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=blueviolet">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=blueviolet">
 </p>
+
 
 
 <!-- GitHub Stats -->
@@ -34,7 +35,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <!-- Contact -->
 ## Contact
 - Email: [rheaprakash2004@gmail.com](mailto:rheaprakash2004@gmail.com)
-- LinkedIn: [Rheap404](https://linkedin.com/in/rheap404)
+- LinkedIn: [rheap404](https://linkedin.com/in/rheap404)
 
 <!-- Footer -->
 <!-- 
