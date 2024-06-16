@@ -8,9 +8,12 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">
+<p align="left">
+   <a href="rheaprakash2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red">
+  </a>
   <a href="https://linkedin.com/in/rheap404">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blue">
   </a>
 </p>
 
@@ -38,12 +41,12 @@ I'm a passionate software developer with a love for creating innovative solution
 <!-- Softwares -->
 ## Softwares
 
-<p align="left" style=" display: flex; flex-direction:column; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="left" style=" display: flex; flex-direction:column; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
 </p>
 
 
@@ -54,16 +57,7 @@ I'm a passionate software developer with a love for creating innovative solution
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheap404&layout=compact&theme=radical">
 </p>
 
-<!-- Contact -->
-## Contact
-<p align="left">
-  <a href="rheaprakash2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white&color=red">
-  </a>
-  <a href="https://linkedin.com/in/rheap404">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blue">
-  </a>
-</p>
+
 
 <!-- Footer -->
 <!-- 
