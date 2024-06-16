@@ -24,9 +24,10 @@
 
 I'm a passionate software developer with a love for creating innovative solutions. My specialties are full-stack development and I am proficient in Java. In my free time, I enjoy exploring new technologies and solving puzzles/problems.
 
-> Third Year Computer Science student at The University of Leeds
-> Interested in learning more about Networks, Artificial Intelligence, and Computer Graphics
-> Seeking opportunities for New Grad roles
+- Third Year Computer Science student at The University of Leeds
+- Interested in learning more about Networks, Artificial Intelligence, and Computer Graphics
+- Seeking opportunities for New Grad roles
+
 
 <!-- Languages & Tools -->
 ## Languages & Tools
