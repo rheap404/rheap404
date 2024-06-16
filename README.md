@@ -1,22 +1,14 @@
 <!-- Profile Header -->
-<div style="display:flex;">
+<div style="display: flex; align-items: center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Light_blue_star.svg/2048px-Light_blue_star.svg.png" alt="Star Image" style="width: 40px; height: 40px; margin-right: 10px;">
-    <h1>Hi, I'm Rhea!</h1>
+    <h1 style="margin: 0;">Hi, I'm Rhea!</h1>
 </div>
 
 <a href="https://linkedin.com/in/rheap404">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=blueviolet">
 </a>
 
-<!--
-<p align="center">
-  <img src="https://github.com/rheap404/rheap404/raw/main/header.png" alt="Profile Header Image">
-</p>
-<h1 align="left">Hi, I'm Rhea! 👋</h1>
-<p>
-  <a href="https://linkedin.com/in/rheap404">LinkedIn</a> 
-</p>
--->
+
 <!-- About Me -->
 ## About Me
 
