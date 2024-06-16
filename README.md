@@ -35,7 +35,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white&color=orange">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&text=black&color=yellow">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&text=black&color=yellow" style="color: black;>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white&color=blueviolet">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&color=black">
@@ -47,7 +47,7 @@ I'm a passionate software developer with a love for creating innovative solution
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=ornge">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&color=orange">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white&color=blueviolet">
 </p>
