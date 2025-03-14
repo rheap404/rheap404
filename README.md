@@ -23,9 +23,9 @@
 ## About Me
 
 I’m a software developer passionate about solving complex technical problems and building impactful software. I specialize in web development, system architecture, and high-performance computing. My experience includes building web applications with React and Astro, designing a compiler in C and a couple of projects in Java and C/C++. My dissertation focuses on pointer-doubling optimizations and benchmarking for graph algorithms across different architectures.
-	•	🎓 Third Year Computer Science student at The University of Leeds
-	•	🌐 Focused on web development, system design, and high-performance computing
-	•	🎯 Actively seeking New Grad roles in software development
+- 🎓 Third Year Computer Science student at The University of Leeds
+- 🌐 Focused on web development, system design, and high-performance computing
+- 🎯 Actively seeking New Grad roles in software development
 
 
 <!-- Languages & Tools -->
